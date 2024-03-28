@@ -6,3 +6,6 @@ The code in script 'Running_dnds_on_colony_WGS.R' relates to the section 'Novel 
 
 # Proportion_of_unidentified_drivers.R
 The code in script 'Proportion_of_unidentified_drivers.R' relates to the point in the section 'The majority of clonal expansions remain unexplained' regarding the proportion of drivers implied by dNdS that are now recognised when including the novel genes. This is a simple function that shows how the the output values from the global dNdS function, the numbers of identified drivers in the same mutation set.
+
+[![DOI](https://zenodo.org/badge/754603371.svg)](https://zenodo.org/doi/10.5281/zenodo.10891331)
+
